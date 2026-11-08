@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/deepset-ai/haystack/commit/0ad74747ffd7d9f9b092db97ba2e222080992c2e",
       "git:hexsha": "0ad74747ffd7d9f9b092db97ba2e222080992c2e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T02:33:17.239266+00:00"
     },
     {
       "@id": "https://repolex.ai/r/deepset-ai/haystack/commit/d2c77f307788899eb562d3cb6e42c69b968b9f2a",
